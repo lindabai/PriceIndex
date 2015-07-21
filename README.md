@@ -1,2 +1,2 @@
 # PriceIndex
-Test
+I love :coffee:
